@@ -1,0 +1,144 @@
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _152c70f8dd8b4c61 -p********** _152c70f8dd8b4c61 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./ecommerce.site/private/backups/20230822_180002-ecommerce_site-database.sql.gz
+
+Backup Summary for ecommerce.site at 2023-08-22 18:00:02.725155
+Config  : ./ecommerce.site/private/backups/20230822_180002-ecommerce_site-site_config_backup.json 94.0B
+Database: ./ecommerce.site/private/backups/20230822_180002-ecommerce_site-database.sql.gz         262.2KiB
+Backup for Site ecommerce.site has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _152c70f8dd8b4c61 -p********** _152c70f8dd8b4c61 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./ecommerce.site/private/backups/20230823_000002-ecommerce_site-database.sql.gz
+
+Backup Summary for ecommerce.site at 2023-08-23 00:00:02.595124
+Config  : ./ecommerce.site/private/backups/20230823_000002-ecommerce_site-site_config_backup.json 94.0B
+Database: ./ecommerce.site/private/backups/20230823_000002-ecommerce_site-database.sql.gz         263.9KiB
+Backup for Site ecommerce.site has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _152c70f8dd8b4c61 -p********** _152c70f8dd8b4c61 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./ecommerce.site/private/backups/20230823_120002-ecommerce_site-database.sql.gz
+
+Backup Summary for ecommerce.site at 2023-08-23 12:00:02.606100
+Config  : ./ecommerce.site/private/backups/20230823_120002-ecommerce_site-site_config_backup.json 94.0B
+Database: ./ecommerce.site/private/backups/20230823_120002-ecommerce_site-database.sql.gz         267.6KiB
+Backup for Site ecommerce.site has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _152c70f8dd8b4c61 -p********** _152c70f8dd8b4c61 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./ecommerce.site/private/backups/20230823_180002-ecommerce_site-database.sql.gz
+
+Backup Summary for ecommerce.site at 2023-08-23 18:00:02.507333
+Config  : ./ecommerce.site/private/backups/20230823_180002-ecommerce_site-site_config_backup.json 94.0B
+Database: ./ecommerce.site/private/backups/20230823_180002-ecommerce_site-database.sql.gz         273.2KiB
+Backup for Site ecommerce.site has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _152c70f8dd8b4c61 -p********** _152c70f8dd8b4c61 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./ecommerce.site/private/backups/20230824_120002-ecommerce_site-database.sql.gz
+
+Backup Summary for ecommerce.site at 2023-08-24 12:00:03.368453
+Config  : ./ecommerce.site/private/backups/20230824_120002-ecommerce_site-site_config_backup.json 94.0B
+Database: ./ecommerce.site/private/backups/20230824_120002-ecommerce_site-database.sql.gz         279.7KiB
+Backup for Site ecommerce.site has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _152c70f8dd8b4c61 -p********** _152c70f8dd8b4c61 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./ecommerce.site/private/backups/20230824_180001-ecommerce_site-database.sql.gz
+
+Backup Summary for ecommerce.site at 2023-08-24 18:00:02.065163
+Config  : ./ecommerce.site/private/backups/20230824_180001-ecommerce_site-site_config_backup.json 94.0B
+Database: ./ecommerce.site/private/backups/20230824_180001-ecommerce_site-database.sql.gz         283.6KiB
+Backup for Site ecommerce.site has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _152c70f8dd8b4c61 -p********** _152c70f8dd8b4c61 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./ecommerce.site/private/backups/20230825_120002-ecommerce_site-database.sql.gz
+
+Backup Summary for ecommerce.site at 2023-08-25 12:00:02.599260
+Config  : ./ecommerce.site/private/backups/20230825_120002-ecommerce_site-site_config_backup.json 94.0B
+Database: ./ecommerce.site/private/backups/20230825_120002-ecommerce_site-database.sql.gz         287.9KiB
+Backup for Site ecommerce.site has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _152c70f8dd8b4c61 -p********** _152c70f8dd8b4c61 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./ecommerce.site/private/backups/20230825_180002-ecommerce_site-database.sql.gz
+
+Backup Summary for ecommerce.site at 2023-08-25 18:00:02.750859
+Config  : ./ecommerce.site/private/backups/20230825_180002-ecommerce_site-site_config_backup.json 94.0B
+Database: ./ecommerce.site/private/backups/20230825_180002-ecommerce_site-database.sql.gz         291.2KiB
+Backup for Site ecommerce.site has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _152c70f8dd8b4c61 -p********** _152c70f8dd8b4c61 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./ecommerce.site/private/backups/20230828_000002-ecommerce_site-database.sql.gz
+
+Backup Summary for ecommerce.site at 2023-08-28 00:00:03.120791
+Config  : ./ecommerce.site/private/backups/20230828_000002-ecommerce_site-site_config_backup.json 94.0B
+Database: ./ecommerce.site/private/backups/20230828_000002-ecommerce_site-database.sql.gz         302.6KiB
+Backup for Site ecommerce.site has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _152c70f8dd8b4c61 -p********** _152c70f8dd8b4c61 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./ecommerce.site/private/backups/20230828_120002-ecommerce_site-database.sql.gz
+
+Backup Summary for ecommerce.site at 2023-08-28 12:00:02.518883
+Config  : ./ecommerce.site/private/backups/20230828_120002-ecommerce_site-site_config_backup.json 94.0B
+Database: ./ecommerce.site/private/backups/20230828_120002-ecommerce_site-database.sql.gz         303.5KiB
+Backup for Site ecommerce.site has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _152c70f8dd8b4c61 -p********** _152c70f8dd8b4c61 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./ecommerce.site/private/backups/20230828_180001-ecommerce_site-database.sql.gz
+
+Backup Summary for ecommerce.site at 2023-08-28 18:00:02.233566
+Config  : ./ecommerce.site/private/backups/20230828_180001-ecommerce_site-site_config_backup.json 94.0B
+Database: ./ecommerce.site/private/backups/20230828_180001-ecommerce_site-database.sql.gz         308.9KiB
+Backup for Site ecommerce.site has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _152c70f8dd8b4c61 -p********** _152c70f8dd8b4c61 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./ecommerce.site/private/backups/20230829_000001-ecommerce_site-database.sql.gz
+
+Backup Summary for ecommerce.site at 2023-08-29 00:00:02.370774
+Config  : ./ecommerce.site/private/backups/20230829_000001-ecommerce_site-site_config_backup.json 94.0B
+Database: ./ecommerce.site/private/backups/20230829_000001-ecommerce_site-database.sql.gz         312.4KiB
+Backup for Site ecommerce.site has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _152c70f8dd8b4c61 -p********** _152c70f8dd8b4c61 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./ecommerce.site/private/backups/20230829_120002-ecommerce_site-database.sql.gz
+
+Backup Summary for ecommerce.site at 2023-08-29 12:00:02.812866
+Config  : ./ecommerce.site/private/backups/20230829_120002-ecommerce_site-site_config_backup.json 94.0B
+Database: ./ecommerce.site/private/backups/20230829_120002-ecommerce_site-database.sql.gz         313.8KiB
+Backup for Site ecommerce.site has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _152c70f8dd8b4c61 -p********** _152c70f8dd8b4c61 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./ecommerce.site/private/backups/20230829_180228-ecommerce_site-database.sql.gz
+
+Backup Summary for ecommerce.site at 2023-08-29 18:02:28.892256
+Config  : ./ecommerce.site/private/backups/20230829_180228-ecommerce_site-site_config_backup.json 94.0B
+Database: ./ecommerce.site/private/backups/20230829_180228-ecommerce_site-database.sql.gz         319.7KiB
+Backup for Site ecommerce.site has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _152c70f8dd8b4c61 -p********** _152c70f8dd8b4c61 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./ecommerce.site/private/backups/20230830_000002-ecommerce_site-database.sql.gz
+
+Backup Summary for ecommerce.site at 2023-08-30 00:00:02.880969
+Config  : ./ecommerce.site/private/backups/20230830_000002-ecommerce_site-site_config_backup.json 94.0B
+Database: ./ecommerce.site/private/backups/20230830_000002-ecommerce_site-database.sql.gz         322.6KiB
+Backup for Site ecommerce.site has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _152c70f8dd8b4c61 -p********** _152c70f8dd8b4c61 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./ecommerce.site/private/backups/20230830_120002-ecommerce_site-database.sql.gz
+
+Backup Summary for ecommerce.site at 2023-08-30 12:00:03.360156
+Config  : ./ecommerce.site/private/backups/20230830_120002-ecommerce_site-site_config_backup.json 94.0B
+Database: ./ecommerce.site/private/backups/20230830_120002-ecommerce_site-database.sql.gz         323.5KiB
+Backup for Site ecommerce.site has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _152c70f8dd8b4c61 -p********** _152c70f8dd8b4c61 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./ecommerce.site/private/backups/20230830_180001-ecommerce_site-database.sql.gz
+
+Backup Summary for ecommerce.site at 2023-08-30 18:00:02.283941
+Config  : ./ecommerce.site/private/backups/20230830_180001-ecommerce_site-site_config_backup.json 94.0B
+Database: ./ecommerce.site/private/backups/20230830_180001-ecommerce_site-database.sql.gz         327.7KiB
+Backup for Site ecommerce.site has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _152c70f8dd8b4c61 -p********** _152c70f8dd8b4c61 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./ecommerce.site/private/backups/20230831_000002-ecommerce_site-database.sql.gz
+
+Backup Summary for ecommerce.site at 2023-08-31 00:00:02.593466
+Config  : ./ecommerce.site/private/backups/20230831_000002-ecommerce_site-site_config_backup.json 94.0B
+Database: ./ecommerce.site/private/backups/20230831_000002-ecommerce_site-database.sql.gz         332.3KiB
+Backup for Site ecommerce.site has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _152c70f8dd8b4c61 -p********** _152c70f8dd8b4c61 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./ecommerce.site/private/backups/20230831_120001-ecommerce_site-database.sql.gz
+
+Backup Summary for ecommerce.site at 2023-08-31 12:00:02.185099
+Config  : ./ecommerce.site/private/backups/20230831_120001-ecommerce_site-site_config_backup.json 94.0B
+Database: ./ecommerce.site/private/backups/20230831_120001-ecommerce_site-database.sql.gz         337.1KiB
+Backup for Site ecommerce.site has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _152c70f8dd8b4c61 -p********** _152c70f8dd8b4c61 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./ecommerce.site/private/backups/20230831_180002-ecommerce_site-database.sql.gz
+
+Backup Summary for ecommerce.site at 2023-08-31 18:00:02.629133
+Config  : ./ecommerce.site/private/backups/20230831_180002-ecommerce_site-site_config_backup.json 94.0B
+Database: ./ecommerce.site/private/backups/20230831_180002-ecommerce_site-database.sql.gz         341.5KiB
+Backup for Site ecommerce.site has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _152c70f8dd8b4c61 -p********** _152c70f8dd8b4c61 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./ecommerce.site/private/backups/20230901_000002-ecommerce_site-database.sql.gz
+
+Backup Summary for ecommerce.site at 2023-09-01 00:00:02.804891
+Config  : ./ecommerce.site/private/backups/20230901_000002-ecommerce_site-site_config_backup.json 94.0B
+Database: ./ecommerce.site/private/backups/20230901_000002-ecommerce_site-database.sql.gz         342.2KiB
+Backup for Site ecommerce.site has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _152c70f8dd8b4c61 -p********** _152c70f8dd8b4c61 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./ecommerce.site/private/backups/20230901_120002-ecommerce_site-database.sql.gz
+
+Backup Summary for ecommerce.site at 2023-09-01 12:00:02.623674
+Config  : ./ecommerce.site/private/backups/20230901_120002-ecommerce_site-site_config_backup.json 94.0B
+Database: ./ecommerce.site/private/backups/20230901_120002-ecommerce_site-database.sql.gz         344.1KiB
+Backup for Site ecommerce.site has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _152c70f8dd8b4c61 -p********** _152c70f8dd8b4c61 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./ecommerce.site/private/backups/20230901_180001-ecommerce_site-database.sql.gz
+
+Backup Summary for ecommerce.site at 2023-09-01 18:00:02.014456
+Config  : ./ecommerce.site/private/backups/20230901_180001-ecommerce_site-site_config_backup.json 126.0B
+Database: ./ecommerce.site/private/backups/20230901_180001-ecommerce_site-database.sql.gz         349.4KiB
+Backup for Site ecommerce.site has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _152c70f8dd8b4c61 -p********** _152c70f8dd8b4c61 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./ecommerce.site/private/backups/20230902_120002-ecommerce_site-database.sql.gz
+
+Backup Summary for ecommerce.site at 2023-09-02 12:00:03.238761
+Config  : ./ecommerce.site/private/backups/20230902_120002-ecommerce_site-site_config_backup.json 126.0B
+Database: ./ecommerce.site/private/backups/20230902_120002-ecommerce_site-database.sql.gz         357.7KiB
+Backup for Site ecommerce.site has been successfully completed

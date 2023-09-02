@@ -1,0 +1,31 @@
+{
+    "frappe": {
+        "resolution": {
+            "commit_hash": null,
+            "branch": null
+        },
+        "required": [],
+        "idx": 1,
+        "version": "15.0.0-dev"
+    },
+    "ecommerce": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "672e443f46455ea8a1905396b9928292803dc447",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 2,
+        "version": "0.0.1"
+    },
+    "account": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "ad76309bb4f937cc25f4c899ce90132a20455b76",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 3,
+        "version": "0.0.1"
+    }
+}

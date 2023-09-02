@@ -1,0 +1,373 @@
+2023-08-28 12:38:50,035 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'name': 'ankit', 'email': 'ankit@gmail.com', 'password1': '********', 'password2': '********'}
+2023-08-28 17:40:02,120 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'admin@gmail.com', 'password': '********'}
+2023-08-28 17:40:27,927 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'test@gmail.com', 'password': '********'}
+2023-08-28 17:43:59,943 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'test@gmail.com', 'password': '********'}
+2023-08-28 17:44:01,144 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'test@gmail.com', 'password': '********'}
+2023-08-28 17:44:06,540 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'test@gmail.com', 'password': '********'}
+2023-08-28 17:44:20,038 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'test@gmail.com', 'password': '********'}
+2023-08-28 17:44:26,168 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'test@gmail.com', 'password': '********'}
+2023-08-28 17:44:42,136 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'test@gmail.com', 'password': '********'}
+2023-08-28 17:45:57,905 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'test@gmail.com', 'password': '********'}
+2023-08-28 17:45:59,127 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'test@gmail.com', 'password': '********'}
+2023-08-28 17:46:18,122 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'test@gmail.com', 'password': '********'}
+2023-08-28 17:46:19,560 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'test@gmail.com', 'password': '********'}
+2023-08-28 17:46:31,367 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'test@gmail.com', 'password': '********'}
+2023-08-28 17:46:43,245 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'test@gmail.com', 'password': '********'}
+2023-08-28 19:20:51,819 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'ankit@gmail.com', 'password': '********'}
+2023-08-28 19:21:05,658 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'ankit@gmail.com', 'password': '********'}
+2023-08-28 19:21:40,039 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'ankit@gmail.com', 'password': '********'}
+2023-08-29 12:39:16,662 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-08-29 12:39:24,417 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-08-30 13:46:04,405 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'mari@gmail.com', 'password': '********'}
+2023-08-30 13:47:15,084 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'mari@gmail.com', 'password': '********'}
+2023-08-30 13:48:02,152 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'mari@gmail.com', 'password': '********'}
+2023-08-30 13:50:04,152 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'mari@gmail.com', 'password': '********'}
+2023-08-30 13:50:48,590 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'mari@gmail.com', 'password': '********'}
+2023-08-30 13:50:49,768 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'mari@gmail.com', 'password': '********'}
+2023-08-30 13:51:06,826 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'mari@gmail.com', 'password': '********'}
+2023-08-30 13:52:05,117 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'mari@gmail.com', 'password': '********'}
+2023-08-30 17:34:28,053 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'mari@gmail.com', 'password': '********', 'csrf_token': '********'}
+2023-08-30 17:35:21,347 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'mari@gmail.com', 'password': '********', 'csrf_token': '********'}
+2023-08-30 17:35:29,673 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'mari@gmail.com', 'password': '********', 'csrf_token': '********'}
+2023-08-30 17:35:35,024 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'email': 'mari@gmail.com', 'password': '********', 'csrf_token': '********'}
+2023-09-01 17:04:52,448 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'doc': '{"name":"blue-color-t-shirt","owner":"Administrator","creation":"2023-08-31 11:01:47.259097","modified":"2023-08-31 12:42:45.796428","modified_by":"Administrator","docstatus":0,"idx":3,"product_name":"Travel Bag","product_image":"/files/bag.png","price":850,"route":"travel-bag","description":"Travel Bag","doctype":"Product","__onload":{"is_website_generator":true,"published":true},"__last_sync_on":"2023-09-01T11:34:37.120Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-09-01 17:10:49,733 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'doc': '{"name":"blue-color-t-shirt","owner":"Administrator","creation":"2023-08-31 11:01:47.259097","modified":"2023-09-01 17:10:16.401469","modified_by":"Administrator","docstatus":0,"idx":3,"product_name":"Travel Bag","product_image":"/files/bag.png","price":850,"route":"travel-bag","description":"Fashio Travel Bag","doctype":"Product","__onload":{"is_website_generator":true,"published":true},"__last_sync_on":"2023-09-01T11:40:41.870Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-09-01 17:14:29,377 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'doc': '{"name":"blue-color-t-shirt","owner":"Administrator","creation":"2023-08-31 11:01:47.259097","modified":"2023-09-01 17:10:16.401469","modified_by":"Administrator","docstatus":0,"idx":3,"product_name":"Travel Bag","product_image":"/files/bag.png","price":950,"route":"travel-bag","description":"Fashio Travel Bag","doctype":"Product","__onload":{"is_website_generator":true,"published":true},"__last_sync_on":"2023-09-01T11:40:41.870Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-09-01 17:14:32,981 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'doc': '{"name":"blue-color-t-shirt","owner":"Administrator","creation":"2023-08-31 11:01:47.259097","modified":"2023-09-01 17:10:16.401469","modified_by":"Administrator","docstatus":0,"idx":3,"product_name":"Travel Bag","product_image":"/files/bag.png","price":850,"route":"travel-bag","description":"Fashio Travel Bag","doctype":"Product","__onload":{"is_website_generator":true,"published":true},"__last_sync_on":"2023-09-01T11:40:41.870Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-09-02 11:47:13,341 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'user': 'sherry@deepsense.in', 'cmd': 'frappe.core.doctype.user.user.reset_password'}
+2023-09-02 12:38:00,950 ERROR frappe Could not take error snapshot: Object of type User is not JSON serializable
+Site: ecommerce.site
+Form Dict: {'email': 'mari@gmail.com', 'password': '********', 'csrf_token': '********'}
+Traceback (most recent call last):
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 529, in pack
+    output.append(hiredis.pack_command(args))
+TypeError: A tuple item must be str, int, float or bytes.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/serve.py", line 18, in get_response
+    response = renderer_instance.render()
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 84, in render
+    html = self.get_html()
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/utils.py", line 515, in cache_html_decorator
+    html = func(*args, **kwargs)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 95, in get_html
+    self.update_context()
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 162, in update_context
+    data = self.run_pymodule_method("get_context")
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 226, in run_pymodule_method
+    return method()
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/utils/typing_validations.py", line 30, in wrapper
+    return func(*args, **kwargs)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/account/account/www/custom_login.py", line 113, in get_context
+    handle_login(email, password)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/account/account/www/custom_login.py", line 53, in handle_login
+    session = create_session(user)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/account/account/www/custom_login.py", line 20, in create_session
+    session = Session(user=user)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/sessions.py", line 218, in __init__
+    self.start()
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/sessions.py", line 236, in start
+    "session_expiry": get_expiry_period(),
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/sessions.py", line 425, in get_expiry_period
+    exp_sec = frappe.defaults.get_global_default("session_expiry") or "06:00:00"
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/defaults.py", line 136, in get_global_default
+    d = get_defaults().get(key, None)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/defaults.py", line 114, in get_defaults
+    defaults.update(get_defaults_for(user))
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/defaults.py", line 230, in get_defaults_for
+    defaults = frappe.cache.hget("defaults", parent)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/utils/redis_wrapper.py", line 229, in hget
+    value = super().hget(_name, key)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/commands/core.py", line 4879, in hget
+    return self.execute_command("HGET", name, key)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/client.py", line 1269, in execute_command
+    return conn.retry.call_with_retry(
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/retry.py", line 46, in call_with_retry
+    return do()
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/client.py", line 1270, in <lambda>
+    lambda: self._send_command_parse_response(
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/client.py", line 1245, in _send_command_parse_response
+    conn.send_command(*args)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 848, in send_command
+    self._command_packer.pack(*args),
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 532, in pack
+    raise DataError(value).with_traceback(traceback)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 529, in pack
+    output.append(hiredis.pack_command(args))
+redis.exceptions.DataError: A tuple item must be str, int, float or bytes.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 529, in pack
+    output.append(hiredis.pack_command(args))
+TypeError: A tuple item must be str, int, float or bytes.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/app.py", line 92, in application
+    response = get_response()
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/serve.py", line 26, in get_response
+    response = ErrorPage(exception=e).render()
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 84, in render
+    html = self.get_html()
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/utils.py", line 515, in cache_html_decorator
+    html = func(*args, **kwargs)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 99, in get_html
+    self.post_process_context()
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 108, in post_process_context
+    self.add_sidebar_and_breadcrumbs()
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 112, in add_sidebar_and_breadcrumbs
+    self.context.sidebar_items = get_sidebar_items(self.context.website_sidebar, self.basepath)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/utils.py", line 435, in get_sidebar_items
+    sidebar_items = get_portal_sidebar_items()
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/utils.py", line 441, in get_portal_sidebar_items
+    sidebar_items = frappe.cache.hget("portal_menu_items", frappe.session.user)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/utils/redis_wrapper.py", line 229, in hget
+    value = super().hget(_name, key)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/commands/core.py", line 4879, in hget
+    return self.execute_command("HGET", name, key)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/client.py", line 1269, in execute_command
+    return conn.retry.call_with_retry(
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/retry.py", line 46, in call_with_retry
+    return do()
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/client.py", line 1270, in <lambda>
+    lambda: self._send_command_parse_response(
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/client.py", line 1245, in _send_command_parse_response
+    conn.send_command(*args)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 848, in send_command
+    self._command_packer.pack(*args),
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 532, in pack
+    raise DataError(value).with_traceback(traceback)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 529, in pack
+    output.append(hiredis.pack_command(args))
+redis.exceptions.DataError: A tuple item must be str, int, float or bytes.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/utils/error.py", line 81, in log_error_snapshot
+    log_error(title=str(exception), defer_insert=True)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/utils/error.py", line 68, in log_error
+    error_log.deferred_insert()
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/model/document.py", line 1595, in deferred_insert
+    deferred_insert(doctype=self.doctype, records=doc)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/deferred_insert.py", line 17, in deferred_insert
+    _records = json.dumps(records)
+  File "/usr/lib/python3.10/json/__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "/usr/lib/python3.10/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.10/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/lib/python3.10/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type User is not JSON serializable
+2023-09-02 12:39:39,993 ERROR frappe Could not take error snapshot: Object of type User is not JSON serializable
+Site: ecommerce.site
+Form Dict: {'email': 'mari@gmail.com', 'password': '********', 'csrf_token': '********'}
+Traceback (most recent call last):
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 529, in pack
+    output.append(hiredis.pack_command(args))
+TypeError: A tuple item must be str, int, float or bytes.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/serve.py", line 18, in get_response
+    response = renderer_instance.render()
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 84, in render
+    html = self.get_html()
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/utils.py", line 515, in cache_html_decorator
+    html = func(*args, **kwargs)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 95, in get_html
+    self.update_context()
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 162, in update_context
+    data = self.run_pymodule_method("get_context")
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 226, in run_pymodule_method
+    return method()
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/utils/typing_validations.py", line 30, in wrapper
+    return func(*args, **kwargs)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/account/account/www/custom_login.py", line 113, in get_context
+    handle_login(email, password)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/account/account/www/custom_login.py", line 53, in handle_login
+    session = create_session(user)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/account/account/www/custom_login.py", line 20, in create_session
+    session = Session(user=user)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/sessions.py", line 218, in __init__
+    self.start()
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/sessions.py", line 236, in start
+    "session_expiry": get_expiry_period(),
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/sessions.py", line 425, in get_expiry_period
+    exp_sec = frappe.defaults.get_global_default("session_expiry") or "06:00:00"
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/defaults.py", line 136, in get_global_default
+    d = get_defaults().get(key, None)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/defaults.py", line 114, in get_defaults
+    defaults.update(get_defaults_for(user))
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/defaults.py", line 230, in get_defaults_for
+    defaults = frappe.cache.hget("defaults", parent)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/utils/redis_wrapper.py", line 229, in hget
+    value = super().hget(_name, key)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/commands/core.py", line 4879, in hget
+    return self.execute_command("HGET", name, key)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/client.py", line 1269, in execute_command
+    return conn.retry.call_with_retry(
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/retry.py", line 46, in call_with_retry
+    return do()
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/client.py", line 1270, in <lambda>
+    lambda: self._send_command_parse_response(
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/client.py", line 1245, in _send_command_parse_response
+    conn.send_command(*args)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 848, in send_command
+    self._command_packer.pack(*args),
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 532, in pack
+    raise DataError(value).with_traceback(traceback)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 529, in pack
+    output.append(hiredis.pack_command(args))
+redis.exceptions.DataError: A tuple item must be str, int, float or bytes.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 529, in pack
+    output.append(hiredis.pack_command(args))
+TypeError: A tuple item must be str, int, float or bytes.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/app.py", line 92, in application
+    response = get_response()
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/serve.py", line 26, in get_response
+    response = ErrorPage(exception=e).render()
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 84, in render
+    html = self.get_html()
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/utils.py", line 515, in cache_html_decorator
+    html = func(*args, **kwargs)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 99, in get_html
+    self.post_process_context()
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 108, in post_process_context
+    self.add_sidebar_and_breadcrumbs()
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 112, in add_sidebar_and_breadcrumbs
+    self.context.sidebar_items = get_sidebar_items(self.context.website_sidebar, self.basepath)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/utils.py", line 435, in get_sidebar_items
+    sidebar_items = get_portal_sidebar_items()
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/utils.py", line 441, in get_portal_sidebar_items
+    sidebar_items = frappe.cache.hget("portal_menu_items", frappe.session.user)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/utils/redis_wrapper.py", line 229, in hget
+    value = super().hget(_name, key)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/commands/core.py", line 4879, in hget
+    return self.execute_command("HGET", name, key)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/client.py", line 1269, in execute_command
+    return conn.retry.call_with_retry(
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/retry.py", line 46, in call_with_retry
+    return do()
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/client.py", line 1270, in <lambda>
+    lambda: self._send_command_parse_response(
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/client.py", line 1245, in _send_command_parse_response
+    conn.send_command(*args)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 848, in send_command
+    self._command_packer.pack(*args),
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 532, in pack
+    raise DataError(value).with_traceback(traceback)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 529, in pack
+    output.append(hiredis.pack_command(args))
+redis.exceptions.DataError: A tuple item must be str, int, float or bytes.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/utils/error.py", line 81, in log_error_snapshot
+    log_error(title=str(exception), defer_insert=True)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/utils/error.py", line 68, in log_error
+    error_log.deferred_insert()
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/model/document.py", line 1595, in deferred_insert
+    deferred_insert(doctype=self.doctype, records=doc)
+  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/deferred_insert.py", line 17, in deferred_insert
+    _records = json.dumps(records)
+  File "/usr/lib/python3.10/json/__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "/usr/lib/python3.10/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.10/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/lib/python3.10/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type User is not JSON serializable
