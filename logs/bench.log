@@ -2286,3 +2286,26 @@ To avoid seeing this warning, set shallow_clone to false in your common_site_con
 2023-09-15 12:19:19,207 INFO /home/yabesh/.local/bin/bench serve --port 8002
 2023-09-15 12:19:19,213 INFO /home/yabesh/.local/bin/bench watch
 2023-09-15 12:19:19,229 INFO /home/yabesh/.local/bin/bench worker
+2023-09-16 00:00:01,814 INFO /home/yabesh/.local/bin/bench --verbose --site all backup
+2023-09-16 00:07:40,564 INFO /home/yabesh/.local/bin/bench start
+2023-09-16 00:07:40,921 INFO /home/yabesh/.local/bin/bench watch
+2023-09-16 00:07:40,928 INFO /home/yabesh/.local/bin/bench serve --port 8002
+2023-09-16 00:07:40,930 INFO /home/yabesh/.local/bin/bench schedule
+2023-09-16 00:07:40,940 INFO /home/yabesh/.local/bin/bench worker
+2023-09-16 00:18:41,951 INFO /home/yabesh/.local/bin/bench start
+2023-09-16 00:18:42,254 INFO /home/yabesh/.local/bin/bench serve --port 8002
+2023-09-16 00:18:42,256 INFO /home/yabesh/.local/bin/bench worker
+2023-09-16 00:18:42,257 INFO /home/yabesh/.local/bin/bench watch
+2023-09-16 00:18:42,265 INFO /home/yabesh/.local/bin/bench schedule
+2023-09-16 00:31:52,432 INFO /home/yabesh/.local/bin/bench clear-cache
+2023-09-16 00:31:55,410 INFO /home/yabesh/.local/bin/bench start
+2023-09-16 00:31:55,661 INFO /home/yabesh/.local/bin/bench serve --port 8002
+2023-09-16 00:31:55,664 INFO /home/yabesh/.local/bin/bench worker
+2023-09-16 00:31:55,676 INFO /home/yabesh/.local/bin/bench watch
+2023-09-16 00:31:55,684 INFO /home/yabesh/.local/bin/bench schedule
+2023-09-16 00:46:34,292 INFO /home/yabesh/.local/bin/bench clear-cache
+2023-09-16 00:46:36,715 INFO /home/yabesh/.local/bin/bench start
+2023-09-16 00:46:36,999 INFO /home/yabesh/.local/bin/bench serve --port 8002
+2023-09-16 00:46:37,002 INFO /home/yabesh/.local/bin/bench schedule
+2023-09-16 00:46:37,031 INFO /home/yabesh/.local/bin/bench watch
+2023-09-16 00:46:37,069 INFO /home/yabesh/.local/bin/bench worker

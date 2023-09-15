@@ -274,3 +274,9 @@ Backup Summary for ecommerce.site at 2023-09-15 12:00:03.100646
 Config  : ./ecommerce.site/private/backups/20230915_120002-ecommerce_site-site_config_backup.json 150.0B
 Database: ./ecommerce.site/private/backups/20230915_120002-ecommerce_site-database.sql.gz         438.6KiB
 Backup for Site ecommerce.site has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _152c70f8dd8b4c61 -p********** _152c70f8dd8b4c61 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./ecommerce.site/private/backups/20230916_000002-ecommerce_site-database.sql.gz
+
+Backup Summary for ecommerce.site at 2023-09-16 00:00:03.075290
+Config  : ./ecommerce.site/private/backups/20230916_000002-ecommerce_site-site_config_backup.json 150.0B
+Database: ./ecommerce.site/private/backups/20230916_000002-ecommerce_site-database.sql.gz         445.9KiB
+Backup for Site ecommerce.site has been successfully completed
