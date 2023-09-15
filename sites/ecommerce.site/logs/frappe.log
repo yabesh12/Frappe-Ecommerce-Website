@@ -1,373 +1,1263 @@
-2023-08-28 12:38:50,035 ERROR frappe New Exception collected in error log
-Site: ecommerce.site
-Form Dict: {'name': 'ankit', 'email': 'ankit@gmail.com', 'password1': '********', 'password2': '********'}
-2023-08-28 17:40:02,120 ERROR frappe New Exception collected in error log
-Site: ecommerce.site
-Form Dict: {'email': 'admin@gmail.com', 'password': '********'}
-2023-08-28 17:40:27,927 ERROR frappe New Exception collected in error log
-Site: ecommerce.site
-Form Dict: {'email': 'test@gmail.com', 'password': '********'}
-2023-08-28 17:43:59,943 ERROR frappe New Exception collected in error log
-Site: ecommerce.site
-Form Dict: {'email': 'test@gmail.com', 'password': '********'}
-2023-08-28 17:44:01,144 ERROR frappe New Exception collected in error log
-Site: ecommerce.site
-Form Dict: {'email': 'test@gmail.com', 'password': '********'}
-2023-08-28 17:44:06,540 ERROR frappe New Exception collected in error log
-Site: ecommerce.site
-Form Dict: {'email': 'test@gmail.com', 'password': '********'}
-2023-08-28 17:44:20,038 ERROR frappe New Exception collected in error log
-Site: ecommerce.site
-Form Dict: {'email': 'test@gmail.com', 'password': '********'}
-2023-08-28 17:44:26,168 ERROR frappe New Exception collected in error log
-Site: ecommerce.site
-Form Dict: {'email': 'test@gmail.com', 'password': '********'}
-2023-08-28 17:44:42,136 ERROR frappe New Exception collected in error log
-Site: ecommerce.site
-Form Dict: {'email': 'test@gmail.com', 'password': '********'}
-2023-08-28 17:45:57,905 ERROR frappe New Exception collected in error log
-Site: ecommerce.site
-Form Dict: {'email': 'test@gmail.com', 'password': '********'}
-2023-08-28 17:45:59,127 ERROR frappe New Exception collected in error log
-Site: ecommerce.site
-Form Dict: {'email': 'test@gmail.com', 'password': '********'}
-2023-08-28 17:46:18,122 ERROR frappe New Exception collected in error log
-Site: ecommerce.site
-Form Dict: {'email': 'test@gmail.com', 'password': '********'}
-2023-08-28 17:46:19,560 ERROR frappe New Exception collected in error log
-Site: ecommerce.site
-Form Dict: {'email': 'test@gmail.com', 'password': '********'}
-2023-08-28 17:46:31,367 ERROR frappe New Exception collected in error log
-Site: ecommerce.site
-Form Dict: {'email': 'test@gmail.com', 'password': '********'}
-2023-08-28 17:46:43,245 ERROR frappe New Exception collected in error log
-Site: ecommerce.site
-Form Dict: {'email': 'test@gmail.com', 'password': '********'}
-2023-08-28 19:20:51,819 ERROR frappe New Exception collected in error log
-Site: ecommerce.site
-Form Dict: {'email': 'ankit@gmail.com', 'password': '********'}
-2023-08-28 19:21:05,658 ERROR frappe New Exception collected in error log
-Site: ecommerce.site
-Form Dict: {'email': 'ankit@gmail.com', 'password': '********'}
-2023-08-28 19:21:40,039 ERROR frappe New Exception collected in error log
-Site: ecommerce.site
-Form Dict: {'email': 'ankit@gmail.com', 'password': '********'}
-2023-08-29 12:39:16,662 ERROR frappe New Exception collected in error log
+2023-09-11 14:23:48,864 ERROR frappe New Exception collected in error log
 Site: ecommerce.site
 Form Dict: {}
-2023-08-29 12:39:24,417 ERROR frappe New Exception collected in error log
+2023-09-11 14:23:48,995 ERROR frappe New Exception collected in error log
 Site: ecommerce.site
 Form Dict: {}
-2023-08-30 13:46:04,405 ERROR frappe New Exception collected in error log
+2023-09-11 14:23:50,464 ERROR frappe New Exception collected in error log
 Site: ecommerce.site
-Form Dict: {'email': 'mari@gmail.com', 'password': '********'}
-2023-08-30 13:47:15,084 ERROR frappe New Exception collected in error log
+Form Dict: {}
+2023-09-11 14:23:50,622 ERROR frappe New Exception collected in error log
 Site: ecommerce.site
-Form Dict: {'email': 'mari@gmail.com', 'password': '********'}
-2023-08-30 13:48:02,152 ERROR frappe New Exception collected in error log
+Form Dict: {}
+2023-09-11 14:23:50,840 ERROR frappe New Exception collected in error log
 Site: ecommerce.site
-Form Dict: {'email': 'mari@gmail.com', 'password': '********'}
-2023-08-30 13:50:04,152 ERROR frappe New Exception collected in error log
+Form Dict: {}
+2023-09-11 14:23:50,999 ERROR frappe New Exception collected in error log
 Site: ecommerce.site
-Form Dict: {'email': 'mari@gmail.com', 'password': '********'}
-2023-08-30 13:50:48,590 ERROR frappe New Exception collected in error log
+Form Dict: {}
+2023-09-11 14:23:51,117 ERROR frappe New Exception collected in error log
 Site: ecommerce.site
-Form Dict: {'email': 'mari@gmail.com', 'password': '********'}
-2023-08-30 13:50:49,768 ERROR frappe New Exception collected in error log
+Form Dict: {}
+2023-09-11 14:23:51,282 ERROR frappe New Exception collected in error log
 Site: ecommerce.site
-Form Dict: {'email': 'mari@gmail.com', 'password': '********'}
-2023-08-30 13:51:06,826 ERROR frappe New Exception collected in error log
+Form Dict: {}
+2023-09-11 14:23:51,514 ERROR frappe New Exception collected in error log
 Site: ecommerce.site
-Form Dict: {'email': 'mari@gmail.com', 'password': '********'}
-2023-08-30 13:52:05,117 ERROR frappe New Exception collected in error log
+Form Dict: {}
+2023-09-11 14:23:51,667 ERROR frappe New Exception collected in error log
 Site: ecommerce.site
-Form Dict: {'email': 'mari@gmail.com', 'password': '********'}
-2023-08-30 17:34:28,053 ERROR frappe New Exception collected in error log
+Form Dict: {}
+2023-09-11 14:23:51,879 ERROR frappe New Exception collected in error log
 Site: ecommerce.site
-Form Dict: {'email': 'mari@gmail.com', 'password': '********', 'csrf_token': '********'}
-2023-08-30 17:35:21,347 ERROR frappe New Exception collected in error log
+Form Dict: {}
+2023-09-11 14:23:52,068 ERROR frappe New Exception collected in error log
 Site: ecommerce.site
-Form Dict: {'email': 'mari@gmail.com', 'password': '********', 'csrf_token': '********'}
-2023-08-30 17:35:29,673 ERROR frappe New Exception collected in error log
+Form Dict: {}
+2023-09-11 14:23:52,374 ERROR frappe New Exception collected in error log
 Site: ecommerce.site
-Form Dict: {'email': 'mari@gmail.com', 'password': '********', 'csrf_token': '********'}
-2023-08-30 17:35:35,024 ERROR frappe New Exception collected in error log
+Form Dict: {}
+2023-09-11 14:23:52,511 ERROR frappe New Exception collected in error log
 Site: ecommerce.site
-Form Dict: {'email': 'mari@gmail.com', 'password': '********', 'csrf_token': '********'}
-2023-09-01 17:04:52,448 ERROR frappe New Exception collected in error log
+Form Dict: {}
+2023-09-11 14:23:55,874 ERROR frappe New Exception collected in error log
 Site: ecommerce.site
-Form Dict: {'doc': '{"name":"blue-color-t-shirt","owner":"Administrator","creation":"2023-08-31 11:01:47.259097","modified":"2023-08-31 12:42:45.796428","modified_by":"Administrator","docstatus":0,"idx":3,"product_name":"Travel Bag","product_image":"/files/bag.png","price":850,"route":"travel-bag","description":"Travel Bag","doctype":"Product","__onload":{"is_website_generator":true,"published":true},"__last_sync_on":"2023-09-01T11:34:37.120Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
-2023-09-01 17:10:49,733 ERROR frappe New Exception collected in error log
+Form Dict: {}
+2023-09-11 14:23:56,194 ERROR frappe New Exception collected in error log
 Site: ecommerce.site
-Form Dict: {'doc': '{"name":"blue-color-t-shirt","owner":"Administrator","creation":"2023-08-31 11:01:47.259097","modified":"2023-09-01 17:10:16.401469","modified_by":"Administrator","docstatus":0,"idx":3,"product_name":"Travel Bag","product_image":"/files/bag.png","price":850,"route":"travel-bag","description":"Fashio Travel Bag","doctype":"Product","__onload":{"is_website_generator":true,"published":true},"__last_sync_on":"2023-09-01T11:40:41.870Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
-2023-09-01 17:14:29,377 ERROR frappe New Exception collected in error log
+Form Dict: {}
+2023-09-11 14:23:56,417 ERROR frappe New Exception collected in error log
 Site: ecommerce.site
-Form Dict: {'doc': '{"name":"blue-color-t-shirt","owner":"Administrator","creation":"2023-08-31 11:01:47.259097","modified":"2023-09-01 17:10:16.401469","modified_by":"Administrator","docstatus":0,"idx":3,"product_name":"Travel Bag","product_image":"/files/bag.png","price":950,"route":"travel-bag","description":"Fashio Travel Bag","doctype":"Product","__onload":{"is_website_generator":true,"published":true},"__last_sync_on":"2023-09-01T11:40:41.870Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
-2023-09-01 17:14:32,981 ERROR frappe New Exception collected in error log
+Form Dict: {}
+2023-09-11 14:24:36,861 ERROR frappe New Exception collected in error log
 Site: ecommerce.site
-Form Dict: {'doc': '{"name":"blue-color-t-shirt","owner":"Administrator","creation":"2023-08-31 11:01:47.259097","modified":"2023-09-01 17:10:16.401469","modified_by":"Administrator","docstatus":0,"idx":3,"product_name":"Travel Bag","product_image":"/files/bag.png","price":850,"route":"travel-bag","description":"Fashio Travel Bag","doctype":"Product","__onload":{"is_website_generator":true,"published":true},"__last_sync_on":"2023-09-01T11:40:41.870Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
-2023-09-02 11:47:13,341 ERROR frappe New Exception collected in error log
+Form Dict: {}
+2023-09-11 14:25:55,847 ERROR frappe New Exception collected in error log
 Site: ecommerce.site
-Form Dict: {'user': 'sherry@deepsense.in', 'cmd': 'frappe.core.doctype.user.user.reset_password'}
-2023-09-02 12:38:00,950 ERROR frappe Could not take error snapshot: Object of type User is not JSON serializable
+Form Dict: {}
+2023-09-11 14:25:56,018 ERROR frappe New Exception collected in error log
 Site: ecommerce.site
-Form Dict: {'email': 'mari@gmail.com', 'password': '********', 'csrf_token': '********'}
-Traceback (most recent call last):
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 529, in pack
-    output.append(hiredis.pack_command(args))
-TypeError: A tuple item must be str, int, float or bytes.
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/serve.py", line 18, in get_response
-    response = renderer_instance.render()
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 84, in render
-    html = self.get_html()
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/utils.py", line 515, in cache_html_decorator
-    html = func(*args, **kwargs)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 95, in get_html
-    self.update_context()
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 162, in update_context
-    data = self.run_pymodule_method("get_context")
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 226, in run_pymodule_method
-    return method()
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/utils/typing_validations.py", line 30, in wrapper
-    return func(*args, **kwargs)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/account/account/www/custom_login.py", line 113, in get_context
-    handle_login(email, password)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/account/account/www/custom_login.py", line 53, in handle_login
-    session = create_session(user)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/account/account/www/custom_login.py", line 20, in create_session
-    session = Session(user=user)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/sessions.py", line 218, in __init__
-    self.start()
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/sessions.py", line 236, in start
-    "session_expiry": get_expiry_period(),
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/sessions.py", line 425, in get_expiry_period
-    exp_sec = frappe.defaults.get_global_default("session_expiry") or "06:00:00"
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/defaults.py", line 136, in get_global_default
-    d = get_defaults().get(key, None)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/defaults.py", line 114, in get_defaults
-    defaults.update(get_defaults_for(user))
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/defaults.py", line 230, in get_defaults_for
-    defaults = frappe.cache.hget("defaults", parent)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/utils/redis_wrapper.py", line 229, in hget
-    value = super().hget(_name, key)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/commands/core.py", line 4879, in hget
-    return self.execute_command("HGET", name, key)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/client.py", line 1269, in execute_command
-    return conn.retry.call_with_retry(
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/retry.py", line 46, in call_with_retry
-    return do()
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/client.py", line 1270, in <lambda>
-    lambda: self._send_command_parse_response(
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/client.py", line 1245, in _send_command_parse_response
-    conn.send_command(*args)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 848, in send_command
-    self._command_packer.pack(*args),
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 532, in pack
-    raise DataError(value).with_traceback(traceback)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 529, in pack
-    output.append(hiredis.pack_command(args))
-redis.exceptions.DataError: A tuple item must be str, int, float or bytes.
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 529, in pack
-    output.append(hiredis.pack_command(args))
-TypeError: A tuple item must be str, int, float or bytes.
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/app.py", line 92, in application
-    response = get_response()
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/serve.py", line 26, in get_response
-    response = ErrorPage(exception=e).render()
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 84, in render
-    html = self.get_html()
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/utils.py", line 515, in cache_html_decorator
-    html = func(*args, **kwargs)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 99, in get_html
-    self.post_process_context()
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 108, in post_process_context
-    self.add_sidebar_and_breadcrumbs()
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 112, in add_sidebar_and_breadcrumbs
-    self.context.sidebar_items = get_sidebar_items(self.context.website_sidebar, self.basepath)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/utils.py", line 435, in get_sidebar_items
-    sidebar_items = get_portal_sidebar_items()
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/utils.py", line 441, in get_portal_sidebar_items
-    sidebar_items = frappe.cache.hget("portal_menu_items", frappe.session.user)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/utils/redis_wrapper.py", line 229, in hget
-    value = super().hget(_name, key)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/commands/core.py", line 4879, in hget
-    return self.execute_command("HGET", name, key)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/client.py", line 1269, in execute_command
-    return conn.retry.call_with_retry(
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/retry.py", line 46, in call_with_retry
-    return do()
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/client.py", line 1270, in <lambda>
-    lambda: self._send_command_parse_response(
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/client.py", line 1245, in _send_command_parse_response
-    conn.send_command(*args)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 848, in send_command
-    self._command_packer.pack(*args),
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 532, in pack
-    raise DataError(value).with_traceback(traceback)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 529, in pack
-    output.append(hiredis.pack_command(args))
-redis.exceptions.DataError: A tuple item must be str, int, float or bytes.
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/utils/error.py", line 81, in log_error_snapshot
-    log_error(title=str(exception), defer_insert=True)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/utils/error.py", line 68, in log_error
-    error_log.deferred_insert()
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/model/document.py", line 1595, in deferred_insert
-    deferred_insert(doctype=self.doctype, records=doc)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/deferred_insert.py", line 17, in deferred_insert
-    _records = json.dumps(records)
-  File "/usr/lib/python3.10/json/__init__.py", line 231, in dumps
-    return _default_encoder.encode(obj)
-  File "/usr/lib/python3.10/json/encoder.py", line 199, in encode
-    chunks = self.iterencode(o, _one_shot=True)
-  File "/usr/lib/python3.10/json/encoder.py", line 257, in iterencode
-    return _iterencode(o, 0)
-  File "/usr/lib/python3.10/json/encoder.py", line 179, in default
-    raise TypeError(f'Object of type {o.__class__.__name__} '
-TypeError: Object of type User is not JSON serializable
-2023-09-02 12:39:39,993 ERROR frappe Could not take error snapshot: Object of type User is not JSON serializable
+Form Dict: {}
+2023-09-11 14:27:56,615 ERROR frappe New Exception collected in error log
 Site: ecommerce.site
-Form Dict: {'email': 'mari@gmail.com', 'password': '********', 'csrf_token': '********'}
-Traceback (most recent call last):
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 529, in pack
-    output.append(hiredis.pack_command(args))
-TypeError: A tuple item must be str, int, float or bytes.
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/serve.py", line 18, in get_response
-    response = renderer_instance.render()
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 84, in render
-    html = self.get_html()
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/utils.py", line 515, in cache_html_decorator
-    html = func(*args, **kwargs)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 95, in get_html
-    self.update_context()
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 162, in update_context
-    data = self.run_pymodule_method("get_context")
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 226, in run_pymodule_method
-    return method()
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/utils/typing_validations.py", line 30, in wrapper
-    return func(*args, **kwargs)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/account/account/www/custom_login.py", line 113, in get_context
-    handle_login(email, password)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/account/account/www/custom_login.py", line 53, in handle_login
-    session = create_session(user)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/account/account/www/custom_login.py", line 20, in create_session
-    session = Session(user=user)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/sessions.py", line 218, in __init__
-    self.start()
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/sessions.py", line 236, in start
-    "session_expiry": get_expiry_period(),
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/sessions.py", line 425, in get_expiry_period
-    exp_sec = frappe.defaults.get_global_default("session_expiry") or "06:00:00"
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/defaults.py", line 136, in get_global_default
-    d = get_defaults().get(key, None)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/defaults.py", line 114, in get_defaults
-    defaults.update(get_defaults_for(user))
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/defaults.py", line 230, in get_defaults_for
-    defaults = frappe.cache.hget("defaults", parent)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/utils/redis_wrapper.py", line 229, in hget
-    value = super().hget(_name, key)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/commands/core.py", line 4879, in hget
-    return self.execute_command("HGET", name, key)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/client.py", line 1269, in execute_command
-    return conn.retry.call_with_retry(
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/retry.py", line 46, in call_with_retry
-    return do()
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/client.py", line 1270, in <lambda>
-    lambda: self._send_command_parse_response(
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/client.py", line 1245, in _send_command_parse_response
-    conn.send_command(*args)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 848, in send_command
-    self._command_packer.pack(*args),
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 532, in pack
-    raise DataError(value).with_traceback(traceback)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 529, in pack
-    output.append(hiredis.pack_command(args))
-redis.exceptions.DataError: A tuple item must be str, int, float or bytes.
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 529, in pack
-    output.append(hiredis.pack_command(args))
-TypeError: A tuple item must be str, int, float or bytes.
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/app.py", line 92, in application
-    response = get_response()
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/serve.py", line 26, in get_response
-    response = ErrorPage(exception=e).render()
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 84, in render
-    html = self.get_html()
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/utils.py", line 515, in cache_html_decorator
-    html = func(*args, **kwargs)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 99, in get_html
-    self.post_process_context()
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 108, in post_process_context
-    self.add_sidebar_and_breadcrumbs()
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/page_renderers/template_page.py", line 112, in add_sidebar_and_breadcrumbs
-    self.context.sidebar_items = get_sidebar_items(self.context.website_sidebar, self.basepath)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/utils.py", line 435, in get_sidebar_items
-    sidebar_items = get_portal_sidebar_items()
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/website/utils.py", line 441, in get_portal_sidebar_items
-    sidebar_items = frappe.cache.hget("portal_menu_items", frappe.session.user)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/utils/redis_wrapper.py", line 229, in hget
-    value = super().hget(_name, key)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/commands/core.py", line 4879, in hget
-    return self.execute_command("HGET", name, key)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/client.py", line 1269, in execute_command
-    return conn.retry.call_with_retry(
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/retry.py", line 46, in call_with_retry
-    return do()
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/client.py", line 1270, in <lambda>
-    lambda: self._send_command_parse_response(
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/client.py", line 1245, in _send_command_parse_response
-    conn.send_command(*args)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 848, in send_command
-    self._command_packer.pack(*args),
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 532, in pack
-    raise DataError(value).with_traceback(traceback)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/env/lib/python3.10/site-packages/redis/connection.py", line 529, in pack
-    output.append(hiredis.pack_command(args))
-redis.exceptions.DataError: A tuple item must be str, int, float or bytes.
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/utils/error.py", line 81, in log_error_snapshot
-    log_error(title=str(exception), defer_insert=True)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/utils/error.py", line 68, in log_error
-    error_log.deferred_insert()
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/model/document.py", line 1595, in deferred_insert
-    deferred_insert(doctype=self.doctype, records=doc)
-  File "/home/yabesh/Downloads/Office/frappe/ecommerce-frappe/apps/frappe/frappe/deferred_insert.py", line 17, in deferred_insert
-    _records = json.dumps(records)
-  File "/usr/lib/python3.10/json/__init__.py", line 231, in dumps
-    return _default_encoder.encode(obj)
-  File "/usr/lib/python3.10/json/encoder.py", line 199, in encode
-    chunks = self.iterencode(o, _one_shot=True)
-  File "/usr/lib/python3.10/json/encoder.py", line 257, in iterencode
-    return _iterencode(o, 0)
-  File "/usr/lib/python3.10/json/encoder.py", line 179, in default
-    raise TypeError(f'Object of type {o.__class__.__name__} '
-TypeError: Object of type User is not JSON serializable
+Form Dict: {}
+2023-09-11 14:27:56,615 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:27:56,809 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:28:00,421 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:28:00,483 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:28:04,131 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:28:04,275 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:28:04,932 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:29:04,685 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:29:04,845 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:29:05,875 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:29:06,009 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:29:06,229 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:29:06,368 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:29:46,639 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:29:46,774 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:29:55,922 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:31:42,294 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:31:42,409 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:31:43,717 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:31:43,887 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:33:55,947 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:33:55,947 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:33:55,947 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:33:55,947 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:33:55,947 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:33:55,947 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:33:55,947 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:33:55,947 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:33:55,947 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:33:55,947 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:33:55,948 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:33:55,948 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:33:55,948 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:37,011 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:37,011 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:37,011 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:37,011 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:37,011 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:37,011 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:37,012 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:37,012 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:37,012 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:37,012 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:37,012 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:37,012 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:37,012 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:37,451 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:37,451 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:37,451 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:37,451 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:37,451 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:37,452 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:37,452 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:37,452 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:37,452 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:37,452 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:37,452 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:37,452 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:37,452 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:38,280 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:38,280 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:38,280 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:38,280 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:38,280 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:38,280 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:38,280 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:38,281 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:38,281 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:38,281 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:38,281 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:38,281 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:38,281 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:39,210 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:39,212 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:39,213 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:39,214 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:39,214 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:39,215 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:39,218 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:39,228 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:39,229 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:39,232 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:39,232 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:39,236 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:39,237 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:39,390 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:39,395 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:39,396 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:39,396 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:39,397 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:39,398 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:39,402 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:39,403 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:39,404 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:39,404 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:39,405 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:39,406 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:39,408 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:40,913 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:40,925 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:40,929 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:40,940 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:40,942 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:40,944 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:40,949 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:40,958 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:40,962 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:40,970 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:40,973 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:40,979 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:40,984 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:41,510 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:41,510 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:41,511 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:41,511 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:41,511 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:41,511 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:41,511 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:41,511 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:41,511 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:41,511 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:41,511 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:41,511 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:41,511 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:41,839 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:41,848 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:41,855 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:41,863 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:41,876 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:41,880 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:41,881 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:41,885 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:41,892 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:41,897 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:41,901 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:41,903 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:41,911 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:42,443 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:42,448 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:42,450 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:42,460 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:42,465 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:42,471 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:42,472 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:42,479 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:42,484 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:42,488 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:42,493 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:42,494 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:42,497 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:42,948 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:42,956 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:42,973 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:42,982 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:42,988 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:42,991 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:42,992 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:42,996 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:42,998 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,008 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,012 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,014 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,015 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,141 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,152 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,154 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,155 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,158 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,159 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,160 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,160 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,161 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,162 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,167 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,172 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,174 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,338 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,347 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,350 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,361 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,364 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,364 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,365 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,366 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,369 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,371 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,373 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,374 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,375 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,606 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,610 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,610 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,610 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,610 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,610 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,611 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,613 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,614 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,614 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,618 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,620 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,625 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,638 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,640 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,640 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,640 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,641 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,642 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,642 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,644 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,645 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,645 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,646 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,646 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,646 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,653 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,654 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,654 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,654 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,654 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,654 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,654 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,654 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,654 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,654 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,654 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,654 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:43,654 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:44,079 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:44,080 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:44,080 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:44,080 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:44,080 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:44,080 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:44,080 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:44,080 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:44,080 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:44,080 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:44,080 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:44,080 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:44,080 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:47,613 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:47,613 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:47,613 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:47,613 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:47,613 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:47,613 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:47,613 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:47,613 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:47,613 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:47,613 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:47,613 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:47,614 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:47,614 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:48,156 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:48,156 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:48,156 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:48,157 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:48,157 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:48,157 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:48,157 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:48,157 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:48,157 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:48,157 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:48,157 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:48,157 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:48,157 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:50,547 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:50,547 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:50,547 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:50,547 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:50,547 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:50,547 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:50,547 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:50,547 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:50,547 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:50,547 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:50,547 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:50,547 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:50,547 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:50,975 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:50,976 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:50,976 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:50,976 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:50,976 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:50,976 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:50,976 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:50,976 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:50,976 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:50,976 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:50,977 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:50,977 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:50,977 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:54,289 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:54,289 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:54,289 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:54,289 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:54,290 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:54,290 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:54,290 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:54,290 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:54,290 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:54,290 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:54,290 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:54,291 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:54,291 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:54,697 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:54,697 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:54,697 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:54,697 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:54,697 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:54,697 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:54,697 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:54,697 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:54,697 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:54,697 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:54,698 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:54,698 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:54,698 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:55,967 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:55,967 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:55,967 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:55,967 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:55,967 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:55,967 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:55,968 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:55,968 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:55,968 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:55,968 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:55,968 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:55,968 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:55,968 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:56,362 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:56,362 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:56,362 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:56,362 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:56,362 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:56,363 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:56,363 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:56,363 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:56,363 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:56,363 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:56,363 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:56,363 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:56,363 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:56,867 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:56,867 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:56,867 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:56,867 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:56,867 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:56,867 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:56,867 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:56,867 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:56,867 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:56,868 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:56,868 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:56,868 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:34:56,868 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:35:28,375 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:35:28,375 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:35:28,375 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:35:28,375 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:35:28,375 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:35:28,375 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:35:28,375 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:35:28,376 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:35:28,376 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:35:28,376 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:35:28,376 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:35:28,376 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:35:28,376 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:35:28,872 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:35:28,872 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:35:28,872 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:35:28,872 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:35:28,872 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:35:28,872 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:35:28,873 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:35:28,873 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:35:28,873 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:35:28,873 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:35:28,873 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:35:28,873 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:35:28,873 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {}
+2023-09-11 14:39:56,048 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {'doctype': 'Cart', 'fields': '["`tabCart`.`name`","`tabCart`.`owner`","`tabCart`.`creation`","`tabCart`.`modified`","`tabCart`.`modified_by`","`tabCart`.`_user_tags`","`tabCart`.`_comments`","`tabCart`.`_assign`","`tabCart`.`_liked_by`","`tabCart`.`docstatus`","`tabCart`.`idx`","`tabCart`.`user`"]', 'filters': '[]', 'order_by': '`tabCart`.`modified` DESC', 'start': '0', 'page_length': '20', 'view': 'List', 'group_by': '`tabCart`.`name`', 'with_comment_count': '1', 'cmd': 'frappe.desk.reportview.get'}
+2023-09-11 14:39:56,048 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {'doctype': 'Cart', 'fields': '["`tabCart`.`name`","`tabCart`.`owner`","`tabCart`.`creation`","`tabCart`.`modified`","`tabCart`.`modified_by`","`tabCart`.`_user_tags`","`tabCart`.`_comments`","`tabCart`.`_assign`","`tabCart`.`_liked_by`","`tabCart`.`docstatus`","`tabCart`.`idx`","`tabCart`.`user`"]', 'filters': '[]', 'order_by': '`tabCart`.`modified` DESC', 'start': '0', 'page_length': '20', 'view': 'List', 'group_by': '`tabCart`.`name`', 'with_comment_count': '1', 'cmd': 'frappe.desk.reportview.get'}
+2023-09-11 14:39:56,048 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {'doctype': 'Cart', 'fields': '["`tabCart`.`name`","`tabCart`.`owner`","`tabCart`.`creation`","`tabCart`.`modified`","`tabCart`.`modified_by`","`tabCart`.`_user_tags`","`tabCart`.`_comments`","`tabCart`.`_assign`","`tabCart`.`_liked_by`","`tabCart`.`docstatus`","`tabCart`.`idx`","`tabCart`.`user`"]', 'filters': '[]', 'order_by': '`tabCart`.`modified` DESC', 'start': '0', 'page_length': '20', 'view': 'List', 'group_by': '`tabCart`.`name`', 'with_comment_count': '1', 'cmd': 'frappe.desk.reportview.get'}
+2023-09-11 14:39:56,048 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {'doctype': 'Cart', 'fields': '["`tabCart`.`name`","`tabCart`.`owner`","`tabCart`.`creation`","`tabCart`.`modified`","`tabCart`.`modified_by`","`tabCart`.`_user_tags`","`tabCart`.`_comments`","`tabCart`.`_assign`","`tabCart`.`_liked_by`","`tabCart`.`docstatus`","`tabCart`.`idx`","`tabCart`.`user`"]', 'filters': '[]', 'order_by': '`tabCart`.`modified` DESC', 'start': '0', 'page_length': '20', 'view': 'List', 'group_by': '`tabCart`.`name`', 'with_comment_count': '1', 'cmd': 'frappe.desk.reportview.get'}
+2023-09-11 14:39:56,048 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {'doctype': 'Cart', 'fields': '["`tabCart`.`name`","`tabCart`.`owner`","`tabCart`.`creation`","`tabCart`.`modified`","`tabCart`.`modified_by`","`tabCart`.`_user_tags`","`tabCart`.`_comments`","`tabCart`.`_assign`","`tabCart`.`_liked_by`","`tabCart`.`docstatus`","`tabCart`.`idx`","`tabCart`.`user`"]', 'filters': '[]', 'order_by': '`tabCart`.`modified` DESC', 'start': '0', 'page_length': '20', 'view': 'List', 'group_by': '`tabCart`.`name`', 'with_comment_count': '1', 'cmd': 'frappe.desk.reportview.get'}
+2023-09-11 14:39:56,048 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {'doctype': 'Cart', 'fields': '["`tabCart`.`name`","`tabCart`.`owner`","`tabCart`.`creation`","`tabCart`.`modified`","`tabCart`.`modified_by`","`tabCart`.`_user_tags`","`tabCart`.`_comments`","`tabCart`.`_assign`","`tabCart`.`_liked_by`","`tabCart`.`docstatus`","`tabCart`.`idx`","`tabCart`.`user`"]', 'filters': '[]', 'order_by': '`tabCart`.`modified` DESC', 'start': '0', 'page_length': '20', 'view': 'List', 'group_by': '`tabCart`.`name`', 'with_comment_count': '1', 'cmd': 'frappe.desk.reportview.get'}
+2023-09-11 14:39:56,048 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {'doctype': 'Cart', 'fields': '["`tabCart`.`name`","`tabCart`.`owner`","`tabCart`.`creation`","`tabCart`.`modified`","`tabCart`.`modified_by`","`tabCart`.`_user_tags`","`tabCart`.`_comments`","`tabCart`.`_assign`","`tabCart`.`_liked_by`","`tabCart`.`docstatus`","`tabCart`.`idx`","`tabCart`.`user`"]', 'filters': '[]', 'order_by': '`tabCart`.`modified` DESC', 'start': '0', 'page_length': '20', 'view': 'List', 'group_by': '`tabCart`.`name`', 'with_comment_count': '1', 'cmd': 'frappe.desk.reportview.get'}
+2023-09-11 14:39:56,048 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {'doctype': 'Cart', 'fields': '["`tabCart`.`name`","`tabCart`.`owner`","`tabCart`.`creation`","`tabCart`.`modified`","`tabCart`.`modified_by`","`tabCart`.`_user_tags`","`tabCart`.`_comments`","`tabCart`.`_assign`","`tabCart`.`_liked_by`","`tabCart`.`docstatus`","`tabCart`.`idx`","`tabCart`.`user`"]', 'filters': '[]', 'order_by': '`tabCart`.`modified` DESC', 'start': '0', 'page_length': '20', 'view': 'List', 'group_by': '`tabCart`.`name`', 'with_comment_count': '1', 'cmd': 'frappe.desk.reportview.get'}
+2023-09-11 14:39:56,048 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {'doctype': 'Cart', 'fields': '["`tabCart`.`name`","`tabCart`.`owner`","`tabCart`.`creation`","`tabCart`.`modified`","`tabCart`.`modified_by`","`tabCart`.`_user_tags`","`tabCart`.`_comments`","`tabCart`.`_assign`","`tabCart`.`_liked_by`","`tabCart`.`docstatus`","`tabCart`.`idx`","`tabCart`.`user`"]', 'filters': '[]', 'order_by': '`tabCart`.`modified` DESC', 'start': '0', 'page_length': '20', 'view': 'List', 'group_by': '`tabCart`.`name`', 'with_comment_count': '1', 'cmd': 'frappe.desk.reportview.get'}
+2023-09-11 14:39:56,048 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {'doctype': 'Cart', 'fields': '["`tabCart`.`name`","`tabCart`.`owner`","`tabCart`.`creation`","`tabCart`.`modified`","`tabCart`.`modified_by`","`tabCart`.`_user_tags`","`tabCart`.`_comments`","`tabCart`.`_assign`","`tabCart`.`_liked_by`","`tabCart`.`docstatus`","`tabCart`.`idx`","`tabCart`.`user`"]', 'filters': '[]', 'order_by': '`tabCart`.`modified` DESC', 'start': '0', 'page_length': '20', 'view': 'List', 'group_by': '`tabCart`.`name`', 'with_comment_count': '1', 'cmd': 'frappe.desk.reportview.get'}
+2023-09-11 14:39:56,049 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {'doctype': 'Cart', 'fields': '["`tabCart`.`name`","`tabCart`.`owner`","`tabCart`.`creation`","`tabCart`.`modified`","`tabCart`.`modified_by`","`tabCart`.`_user_tags`","`tabCart`.`_comments`","`tabCart`.`_assign`","`tabCart`.`_liked_by`","`tabCart`.`docstatus`","`tabCart`.`idx`","`tabCart`.`user`"]', 'filters': '[]', 'order_by': '`tabCart`.`modified` DESC', 'start': '0', 'page_length': '20', 'view': 'List', 'group_by': '`tabCart`.`name`', 'with_comment_count': '1', 'cmd': 'frappe.desk.reportview.get'}
+2023-09-11 14:39:56,049 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: ecommerce.site
+Form Dict: {'doctype': 'Cart', 'fields': '["`tabCart`.`name`","`tabCart`.`owner`","`tabCart`.`creation`","`tabCart`.`modified`","`tabCart`.`modified_by`","`tabCart`.`_user_tags`","`tabCart`.`_comments`","`tabCart`.`_assign`","`tabCart`.`_liked_by`","`tabCart`.`docstatus`","`tabCart`.`idx`","`tabCart`.`user`"]', 'filters': '[]', 'order_by': '`tabCart`.`modified` DESC', 'start': '0', 'page_length': '20', 'view': 'List', 'group_by': '`tabCart`.`name`', 'with_comment_count': '1', 'cmd': 'frappe.desk.reportview.get'}
+2023-09-11 14:39:56,049 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'doctype': 'Cart', 'fields': '["`tabCart`.`name`","`tabCart`.`owner`","`tabCart`.`creation`","`tabCart`.`modified`","`tabCart`.`modified_by`","`tabCart`.`_user_tags`","`tabCart`.`_comments`","`tabCart`.`_assign`","`tabCart`.`_liked_by`","`tabCart`.`docstatus`","`tabCart`.`idx`","`tabCart`.`user`"]', 'filters': '[]', 'order_by': '`tabCart`.`modified` DESC', 'start': '0', 'page_length': '20', 'view': 'List', 'group_by': '`tabCart`.`name`', 'with_comment_count': '1', 'cmd': 'frappe.desk.reportview.get'}
+2023-09-11 14:46:14,600 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'doctype': 'Cart', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2023-09-11 14:46:14,891 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'doctype': 'Cart', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2023-09-11 17:34:57,447 ERROR frappe New Exception collected in error log
+Site: ecommerce.site
+Form Dict: {'product_slug': 'green-color-t-shirt'}

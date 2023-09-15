@@ -2,5 +2,6 @@
  "db_name": "_152c70f8dd8b4c61",
  "db_password": "hScrLz6sROakoyPM",
  "db_type": "mariadb",
+ "maintenance_mode": 0,
  "server_script_enabled": true
 }
