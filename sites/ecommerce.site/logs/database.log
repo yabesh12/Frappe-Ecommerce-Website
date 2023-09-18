@@ -2624,3 +2624,152 @@ ALTER TABLE `tabCart` ADD COLUMN `created_at` datetime(6)
 ALTER TABLE `tabCart` MODIFY `cart_total` decimal(21,9) not null default 0
 2023-09-11 18:37:08,977 WARNING database DDL Query made to DB:
 ALTER TABLE `tabCart` MODIFY `is_active` int(1) not null default 1, MODIFY `cart_total` decimal(21,9) not null default 0
+2023-09-16 15:20:10,865 WARNING database DDL Query made to DB:
+create table `tabOrder` (
+			name varchar(140) primary key,
+			creation datetime(6),
+			modified datetime(6),
+			modified_by varchar(140),
+			owner varchar(140),
+			docstatus int(1) not null default '0',
+			idx int(8) not null default '0',
+			`title` varchar(140),
+`_user_tags` text,
+`_comments` text,
+`_assign` text,
+`_liked_by` text,
+index modified(modified))
+			ENGINE=InnoDB
+			ROW_FORMAT=DYNAMIC
+			CHARACTER SET=utf8mb4
+			COLLATE=utf8mb4_unicode_ci
+2023-09-16 15:21:19,228 WARNING database DDL Query made to DB:
+ALTER TABLE `tabOrder` ADD COLUMN `product` varchar(140)
+2023-09-16 15:22:17,114 WARNING database DDL Query made to DB:
+ALTER TABLE `tabOrder` ADD COLUMN `user` varchar(140)
+2023-09-16 15:22:59,536 WARNING database DDL Query made to DB:
+ALTER TABLE `tabOrder` ADD COLUMN `cart` varchar(140)
+2023-09-16 15:23:45,152 WARNING database DDL Query made to DB:
+ALTER TABLE `tabOrder` ADD COLUMN `shipping_address` text
+2023-09-16 15:25:43,308 WARNING database DDL Query made to DB:
+ALTER TABLE `tabOrder` ADD COLUMN `float_jxpu` decimal(21,9) not null default 0
+2023-09-16 15:25:56,959 WARNING database DDL Query made to DB:
+ALTER TABLE `tabOrder` ADD COLUMN `order_total_amount` decimal(21,9) not null default 0
+2023-09-16 15:27:42,234 WARNING database DDL Query made to DB:
+ALTER TABLE `tabOrder` MODIFY `order_total_amount` decimal(21,9) not null default 0
+2023-09-16 15:42:47,863 WARNING database DDL Query made to DB:
+ALTER TABLE `tabOrder` ADD COLUMN `is_payment_successful` int(1) not null default 0
+2023-09-16 15:42:47,869 WARNING database DDL Query made to DB:
+ALTER TABLE `tabOrder` MODIFY `order_total_amount` decimal(21,9) not null default 0
+2023-09-16 15:47:50,397 WARNING database DDL Query made to DB:
+ALTER TABLE `tabOrder` ADD COLUMN `status` varchar(140)
+2023-09-16 15:47:50,403 WARNING database DDL Query made to DB:
+ALTER TABLE `tabOrder` MODIFY `order_total_amount` decimal(21,9) not null default 0
+2023-09-16 15:48:45,629 WARNING database DDL Query made to DB:
+create table `tabOrder Item` (
+			name varchar(140) primary key,
+			creation datetime(6),
+			modified datetime(6),
+			modified_by varchar(140),
+			owner varchar(140),
+			docstatus int(1) not null default '0',
+			idx int(8) not null default '0',
+			`order` varchar(140),
+parent varchar(140),
+parentfield varchar(140),
+parenttype varchar(140),
+index parent(parent))
+			ENGINE=InnoDB
+			ROW_FORMAT=DYNAMIC
+			CHARACTER SET=utf8mb4
+			COLLATE=utf8mb4_unicode_ci
+2023-09-16 15:49:18,045 WARNING database DDL Query made to DB:
+ALTER TABLE `tabOrder Item` ADD COLUMN `product` varchar(140)
+2023-09-16 15:49:56,018 WARNING database DDL Query made to DB:
+ALTER TABLE `tabOrder Item` ADD COLUMN `int_gpcn` int(11) not null default 0
+2023-09-16 15:50:06,547 WARNING database DDL Query made to DB:
+ALTER TABLE `tabOrder Item` ADD COLUMN `quantity` int(11) not null default 0
+2023-09-16 15:50:29,379 WARNING database DDL Query made to DB:
+ALTER TABLE `tabOrder Item` ADD COLUMN `price` decimal(21,9) not null default 0
+2023-09-16 15:51:53,953 WARNING database DDL Query made to DB:
+ALTER TABLE `tabOrder` MODIFY `order_total_amount` decimal(21,9) not null default 0
+2023-09-16 15:52:28,528 WARNING database DDL Query made to DB:
+create table `tabPayment` (
+			name varchar(140) primary key,
+			creation datetime(6),
+			modified datetime(6),
+			modified_by varchar(140),
+			owner varchar(140),
+			docstatus int(1) not null default '0',
+			idx int(8) not null default '0',
+			`title` varchar(140),
+`_user_tags` text,
+`_comments` text,
+`_assign` text,
+`_liked_by` text,
+index modified(modified))
+			ENGINE=InnoDB
+			ROW_FORMAT=DYNAMIC
+			CHARACTER SET=utf8mb4
+			COLLATE=utf8mb4_unicode_ci
+2023-09-16 15:52:50,730 WARNING database DDL Query made to DB:
+ALTER TABLE `tabPayment` ADD COLUMN `order` varchar(140)
+2023-09-16 15:53:22,063 WARNING database DDL Query made to DB:
+ALTER TABLE `tabPayment` ADD COLUMN `razorpay_order_id` varchar(140)
+2023-09-16 15:54:00,963 WARNING database DDL Query made to DB:
+ALTER TABLE `tabPayment` ADD COLUMN `status` varchar(140)
+2023-09-16 16:36:06,600 WARNING database DDL Query made to DB:
+ALTER TABLE `tabPayment` ADD COLUMN `json_soja` json
+2023-09-16 16:36:15,335 WARNING database DDL Query made to DB:
+ALTER TABLE `tabPayment` ADD COLUMN `response_data` json
+2023-09-16 16:36:35,077 WARNING database DDL Query made to DB:
+create table `tabTransaction` (
+			name varchar(140) primary key,
+			creation datetime(6),
+			modified datetime(6),
+			modified_by varchar(140),
+			owner varchar(140),
+			docstatus int(1) not null default '0',
+			idx int(8) not null default '0',
+			`title` varchar(140),
+`_user_tags` text,
+`_comments` text,
+`_assign` text,
+`_liked_by` text,
+index modified(modified))
+			ENGINE=InnoDB
+			ROW_FORMAT=DYNAMIC
+			CHARACTER SET=utf8mb4
+			COLLATE=utf8mb4_unicode_ci
+2023-09-16 16:36:42,747 WARNING database DDL Query made to DB:
+alter table `tabTransaction` add column parent varchar(140)
+2023-09-16 16:36:42,768 WARNING database DDL Query made to DB:
+alter table `tabTransaction` add column parenttype varchar(140)
+2023-09-16 16:36:42,791 WARNING database DDL Query made to DB:
+alter table `tabTransaction` add column parentfield varchar(140)
+2023-09-16 16:37:10,043 WARNING database DDL Query made to DB:
+ALTER TABLE `tabTransaction` ADD COLUMN `payment` varchar(140)
+2023-09-16 16:37:35,884 WARNING database DDL Query made to DB:
+ALTER TABLE `tabTransaction` ADD COLUMN `order` varchar(140)
+2023-09-16 16:37:42,960 WARNING database DDL Query made to DB:
+ALTER TABLE `tabTransaction` ADD COLUMN `data_rfyb` varchar(140)
+2023-09-16 16:37:58,006 WARNING database DDL Query made to DB:
+ALTER TABLE `tabTransaction` ADD COLUMN `razorpay_order_id` varchar(140)
+2023-09-16 16:42:44,662 WARNING database DDL Query made to DB:
+ALTER TABLE `tabTransaction` ADD COLUMN `amount` varchar(140)
+2023-09-16 16:44:19,515 WARNING database DDL Query made to DB:
+ALTER TABLE `tabTransaction` ADD COLUMN `method` varchar(140)
+2023-09-16 16:45:49,438 WARNING database DDL Query made to DB:
+ALTER TABLE `tabTransaction` ADD COLUMN `card_holder_name` varchar(140)
+2023-09-16 16:46:06,548 WARNING database DDL Query made to DB:
+ALTER TABLE `tabTransaction` ADD COLUMN `card_issuer` varchar(140)
+2023-09-16 16:46:25,093 WARNING database DDL Query made to DB:
+ALTER TABLE `tabTransaction` ADD COLUMN `card_last_4_digit` int(11) not null default 0
+2023-09-16 16:46:46,341 WARNING database DDL Query made to DB:
+ALTER TABLE `tabTransaction` ADD COLUMN `email` varchar(140)
+2023-09-16 16:47:06,206 WARNING database DDL Query made to DB:
+ALTER TABLE `tabTransaction` ADD COLUMN `phone_number` int(11) not null default 0
+2023-09-16 16:47:23,628 WARNING database DDL Query made to DB:
+ALTER TABLE `tabTransaction` ADD COLUMN `response_data` json
+2023-09-16 16:48:41,154 WARNING database DDL Query made to DB:
+ALTER TABLE `tabPayment` MODIFY `response_data` json
